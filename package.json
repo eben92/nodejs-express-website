@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-websit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhutmann/nodejs-express-website.git"
+  },
+  "author": "Frimpong Ebenezer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhutmann/nodejs-express-website/issues"
+  },
+  "homepage": "https://github.com/rhutmann/nodejs-express-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
